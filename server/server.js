@@ -184,7 +184,7 @@ app.listen(PORT, () => {
     res.send('Server is working fine 🚀');
   });
 });
-
+module.exports = app; // Export the app to work as a serverless function
 
 
 
