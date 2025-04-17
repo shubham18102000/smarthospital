@@ -1,0 +1,21 @@
+.doctor-login {
+    margin: 100px auto; /* Centers horizontally */
+    max-width: 400px; /* Restricts width for responsiveness */
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .doctor-login {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        max-width: 90%; /* Makes it fit smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .doctor-login {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        max-width: 95%;
+    }
+}
