@@ -1,0 +1,14 @@
+
+# Node.js dependencies for Backend
+/client/node_modules/
+
+# Node.js dependencies for Frontend
+/server/node_modules/
+
+# echo "# IoMT-smart-hospital" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/shubham18102000/IoMT-smart-hospital.git
+# git push -u origin main
