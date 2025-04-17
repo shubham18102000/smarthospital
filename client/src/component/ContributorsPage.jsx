@@ -4,7 +4,7 @@ import HospitalNavbar from "./Navbar";
 import Footer from "./Footer";
 import logo from "../assets/sam.jpg";
 import logo1 from "../assets/ajit2.jpg";
-import ayushi from "../assets/ayushi.png";
+import ayushi from "../assets/ayushi.jpg";
 import sapna from "../assets/sapna.jpg";
 import { FaUserTie, FaTasks, FaIdCard } from "react-icons/fa";
 
