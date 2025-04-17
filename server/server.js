@@ -179,6 +179,10 @@ app.get('/ecg-data', async (req, res) => {
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
+
+  app.get('/', (req, res) => {
+    res.send('Server is working fine 🚀');
+  });
 });
 
 
